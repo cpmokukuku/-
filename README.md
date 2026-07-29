@@ -20,7 +20,8 @@
 
 1. 前置准备
 请先确保浏览器已安装 [Tampermonkey (油猴)](https://www.tampermonkey.net/) 扩展。
-2. 安装脚本
+2. [安装脚本](https://github.com/cpmokukuku/-/raw/main/index.user.js)
+  *(确保你的浏览器已安装 Tampermonkey 插件，点击后会自动弹出油猴安装界面)*
 3. 开始抢课
 1）在选课开放期间登录大连海事大学教务系统，进入“我的选课”=“选课”，看到必修、限选或任选分类界面后点击“进入选课”即可。
 2）页面右上角会出现控制面板。
